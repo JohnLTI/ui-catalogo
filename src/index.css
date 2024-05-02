@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Tilt+Neon&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Black&family=Bungee+Spice&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a.active {
+  color: rgb(200, 4, 4)
+}
